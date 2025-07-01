@@ -6,18 +6,19 @@ As a Data Analyst, I was responsible for identifying in-demand programming skill
 
 # 💡 Key Learnings
 
-🔹 Data Preparation
-Collected data from APIs, web scraping, and various sources (.csv, .xlsx, databases).
+## Data Preparation
+### Collected data from APIs, web scraping, and various sources (.csv, .xlsx, databases).
 
-Cleaned datasets by handling missing values, removing duplicates, and normalizing data using Excel and Python.
+### Cleaned datasets by handling missing values, removing duplicates, and normalizing data using Excel and Python.
 
-🔹 Data Exploration
-Used Python to understand data distribution, identify outliers, and calculate correlations.
+## Data Exploration
+### Used Python to understand data distribution, identify outliers, and calculate correlations.
 
-Performed statistical analysis to extract key patterns and trends.
+### Performed statistical analysis to extract key patterns and trends.
 
-🔹 Data Visualization
-Created visualizations to:
+## Data Visualization
+
+### Created visualizations to:
 
 Analyze the distribution of programming skills.
 
@@ -25,7 +26,7 @@ Explore relationships between technologies.
 
 Compare demand across different platforms and tools.
 
-🔹 Dashboard Creation
+## Dashboard Creation
 Designed interactive dashboards using IBM Cognos Analytics.
 
 Integrated insights into a PowerPoint presentation for effective communication with stakeholders.
