@@ -82,8 +82,8 @@ Npower Canada
 # 📬 Contact
 For questions or collaborations, feel free to connect with me on LinkedIn or email:
 
-📧 Email: farhana.03@hotmail.com
+📧 Email:(farhana.03@hotmail.com)
 
-💼 LinkedIn: Farhana Islam (https://www.linkedin.com/in/farhana-islam-261938262/)
+💼 LinkedIn: Farhana Islam(https://www.linkedin.com/in/farhana-islam-261938262/)
 
 
