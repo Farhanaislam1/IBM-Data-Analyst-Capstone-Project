@@ -5,17 +5,18 @@ This capstone project marks the culmination of the IBM Data Analyst Professional
 As a Data Analyst, I was responsible for identifying in-demand programming skills through the analysis of job postings, online training platforms, and industry surveys.
 
 # 💡 Key Learnings
-#🔹 Data Preparation
+
+🔹 Data Preparation
 Collected data from APIs, web scraping, and various sources (.csv, .xlsx, databases).
 
 Cleaned datasets by handling missing values, removing duplicates, and normalizing data using Excel and Python.
 
-#🔹 Data Exploration
+🔹 Data Exploration
 Used Python to understand data distribution, identify outliers, and calculate correlations.
 
 Performed statistical analysis to extract key patterns and trends.
 
-#🔹 Data Visualization
+🔹 Data Visualization
 Created visualizations to:
 
 Analyze the distribution of programming skills.
@@ -24,7 +25,7 @@ Explore relationships between technologies.
 
 Compare demand across different platforms and tools.
 
-#🔹 Dashboard Creation
+🔹 Dashboard Creation
 Designed interactive dashboards using IBM Cognos Analytics.
 
 Integrated insights into a PowerPoint presentation for effective communication with stakeholders.
@@ -82,6 +83,6 @@ For questions or collaborations, feel free to connect with me on LinkedIn or ema
 
 📧 Email: farhana.03@hotmail.com
 
-💼 LinkedIn: Farhana Islam
+💼 LinkedIn: Farhana Islam (https://www.linkedin.com/in/farhana-islam-261938262/)
 
 
