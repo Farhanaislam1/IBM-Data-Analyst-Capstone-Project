@@ -46,7 +46,7 @@ Integrated insights into a PowerPoint presentation for effective communication w
 [🔗 Link to IBM Cognos Dashboard] (Replace with actual link if publicly available or a screenshot if not)
 
 # ✅ Conclusion
-The IBM Data Analyst Capstone Project enabled me to apply theoretical concepts in a practical, business-driven context. I gained valuable experience in:
+## The IBM Data Analyst Capstone Project enabled me to apply theoretical concepts in a practical, business-driven context. I gained valuable experience in:
 
 Gathering and preparing data from multiple sources.
 
@@ -56,7 +56,7 @@ Creating compelling data visualizations.
 
 Designing dynamic dashboards in IBM Cognos Analytics to drive decision-making.
 
-This experience has significantly enhanced my analytical skills and equipped me to deliver data-driven insights in a professional environment.
+## This experience has significantly enhanced my analytical skills and equipped me to deliver data-driven insights in a professional environment.
 
 # 🛠 Tools & Technologies Used
 Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -82,8 +82,9 @@ Npower Canada
 # 📬 Contact
 For questions or collaborations, feel free to connect with me on LinkedIn or email:
 
-📧 Email:farhana.03@hotmail.com
+📧 [Email](farhana.03@hotmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/farhana-islam-261938262/) 
+🐱 [GitHub](https://github.com/Farhanaislam1)
 
-💼 LinkedIn: Farhana Islam(https://www.linkedin.com/in/farhana-islam-261938262/)
 
 
