@@ -1,8 +1,39 @@
 # IBM-Data-Analyst-Capstone-Project
+## Exploring Developer Trends Using the Stack Overflow Survey Dataset
 # 🧭 Overview
-This capstone project was the part of the IBM Data Analyst Professional Certificate and provides hands-on experience in the full data analysis workflow. From collecting and preparing data to conducting exploratory data analysis and building interactive dashboards using IBM Cognos Analytics, this project simulates a real-world business scenario within a leading international IT consulting organization.
+This capstone project is the final milestone of the IBM Data Analyst Professional Certificate. In this project, I analyzed a subset of the Stack Overflow Developer Survey dataset to uncover key trends in developer demographics, skills, work preferences, and satisfaction levels.
 
-As a Data Analyst, I was responsible for identifying in-demand programming skills through the analysis of job postings, online training platforms, and industry surveys.
+The goal was to gain actionable insights into the evolving software development landscape, including the most in-demand programming languages, platforms, databases, and the rise of AI tools in development workflows.
+
+# 📈 Dataset Summary
+## Source: Stack Overflow Developer Survey (Subset, Open Database License)
+
+## Size:
+
+Rows: 65,437 responses
+
+Columns: 114 variables
+
+## Content Includes:
+
+Demographics (Age, Country, Education)
+
+Professional Experience (YearsCoding, Employment, DevType)
+
+Skills (Languages, Frameworks, Databases, Platforms)
+
+Tools & Technologies (AI usage, OS preferences, Remote work)
+
+Satisfaction Metrics (JobSat, Compensation, Purchase Influence)
+
+# 📌 Objectives
+Analyze trends in programming languages, tools, and technologies.
+
+Understand developer learning paths, job satisfaction, and career profiles.
+
+Visualize and communicate findings using IBM Cognos Analytics.
+
+Develop a compelling dashboard and final presentation to share insights with stakeholders.
 
 # 💡 Key Learnings
 
