@@ -5,17 +5,17 @@ This capstone project marks the culmination of the IBM Data Analyst Professional
 As a Data Analyst, I was responsible for identifying in-demand programming skills through the analysis of job postings, online training platforms, and industry surveys.
 
 # 💡 Key Learnings
-## 🔹 Data Preparation
+#🔹 Data Preparation
 Collected data from APIs, web scraping, and various sources (.csv, .xlsx, databases).
 
 Cleaned datasets by handling missing values, removing duplicates, and normalizing data using Excel and Python.
 
-## 🔹 Data Exploration
+#🔹 Data Exploration
 Used Python to understand data distribution, identify outliers, and calculate correlations.
 
 Performed statistical analysis to extract key patterns and trends.
 
-##🔹 Data Visualization
+#🔹 Data Visualization
 Created visualizations to:
 
 Analyze the distribution of programming skills.
@@ -24,19 +24,21 @@ Explore relationships between technologies.
 
 Compare demand across different platforms and tools.
 
-##🔹 Dashboard Creation
+#🔹 Dashboard Creation
 Designed interactive dashboards using IBM Cognos Analytics.
 
 Integrated insights into a PowerPoint presentation for effective communication with stakeholders.
 
 # 📈 Project Workflow
-Week	Phase	Description
-Week 1	Data Collection	Gathered job market data using scraping and APIs.
-Week 2	Data Wrangling	Cleaned and transformed raw data for analysis.
-Week 3	Exploratory Analysis	Performed statistical analysis using Python.
-Week 4	Data Visualization	Built graphs and charts to represent insights.
-Week 5	Dashboard Development	Created dashboards in IBM Cognos Analytics.
-Week 6	Presentation of Findings	Presented actionable insights through storytelling.
+| **Week** | **Phase**                    | **Description**                                     |
+| -------- | ---------------------------- | --------------------------------------------------- |
+| Week 1   | **Data Collection**          | Gathered job market data using scraping and APIs.   |
+| Week 2   | **Data Wrangling**           | Cleaned and transformed raw data for analysis.      |
+| Week 3   | **Exploratory Analysis**     | Performed statistical analysis using Python.        |
+| Week 4   | **Data Visualization**       | Built graphs and charts to represent insights.      |
+| Week 5   | **Dashboard Development**    | Created dashboards in IBM Cognos Analytics.         |
+| Week 6   | **Presentation of Findings** | Presented actionable insights through storytelling. |
+
 
 # 📊 View Dashboard
 [🔗 Link to IBM Cognos Dashboard] (Replace with actual link if publicly available or a screenshot if not)
