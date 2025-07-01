@@ -7,14 +7,14 @@ As a Data Analyst, I was responsible for identifying in-demand programming skill
 # 💡 Key Learnings
 
 ## Data Preparation
-### Collected data from APIs, web scraping, and various sources (.csv, .xlsx, databases).
+#### Collected data from APIs, web scraping, and various sources (.csv, .xlsx, databases).
 
-### Cleaned datasets by handling missing values, removing duplicates, and normalizing data using Excel and Python.
+#### Cleaned datasets by handling missing values, removing duplicates, and normalizing data using Excel and Python.
 
 ## Data Exploration
-### Used Python to understand data distribution, identify outliers, and calculate correlations.
+#### Used Python to understand data distribution, identify outliers, and calculate correlations.
 
-### Performed statistical analysis to extract key patterns and trends.
+#### Performed statistical analysis to extract key patterns and trends.
 
 ## Data Visualization
 
