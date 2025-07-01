@@ -1,6 +1,6 @@
 # IBM-Data-Analyst-Capstone-Project
 # 🧭 Overview
-This capstone project marks the culmination of the IBM Data Analyst Professional Certificate and provides hands-on experience in the full data analysis workflow. From collecting and preparing data to conducting exploratory data analysis and building interactive dashboards using IBM Cognos Analytics, this project simulates a real-world business scenario within a leading international IT consulting organization.
+This capstone project was the part of the IBM Data Analyst Professional Certificate and provides hands-on experience in the full data analysis workflow. From collecting and preparing data to conducting exploratory data analysis and building interactive dashboards using IBM Cognos Analytics, this project simulates a real-world business scenario within a leading international IT consulting organization.
 
 As a Data Analyst, I was responsible for identifying in-demand programming skills through the analysis of job postings, online training platforms, and industry surveys.
 
