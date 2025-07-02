@@ -74,7 +74,14 @@ Integrated insights into a PowerPoint presentation for effective communication w
 
 
 # 📊 View Dashboard
-[🔗 Link to IBM Cognos Dashboard] (Replace with actual link if publicly available or a screenshot if not)
+
+![image](https://github.com/user-attachments/assets/25143c48-d50b-41c6-aca9-548140d4d5ff)
+
+![image](https://github.com/user-attachments/assets/f4329849-86b0-4075-be6d-0c173d390e4b)
+
+![image](https://github.com/user-attachments/assets/bcbc447f-6806-49a0-a023-15d503ec595e)
+
+
 
 # ✅ Conclusion
 ## The IBM Data Analyst Capstone Project enabled me to apply theoretical concepts in a practical, business-driven context. I gained valuable experience in:
