@@ -75,9 +75,9 @@ Integrated insights into a PowerPoint presentation for effective communication w
 
 # 📊 View Dashboard
 
-![image](https://github.com/user-attachments/assets/25143c48-d50b-41c6-aca9-548140d4d5ff)
+![image](https://github.com/user-attachments/assets/7e23f8aa-e242-43c9-82f5-033e4c2a2962)
 
-![image](https://github.com/user-attachments/assets/f4329849-86b0-4075-be6d-0c173d390e4b)
+![image](https://github.com/user-attachments/assets/6e76ccd6-6438-4a15-80b3-b5e3bcb6310d)
 
 ![image](https://github.com/user-attachments/assets/bcbc447f-6806-49a0-a023-15d503ec595e)
 
